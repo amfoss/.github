@@ -7,6 +7,6 @@ We're a community of student developers based in Amrita Vishwa Vidyapeetham, Amr
 # Maintainers
 
 - [amD](https://github.com/amfoss/amd) -> [Ivin](https://github.com/ivinjabraham)
-- [Root](https://github.com/amfoss/root) -> [Vishnu](https://github.com/he1senbrg)
+- [Root](https://github.com/amfoss/root) -> [Vishnu](https://github.com/he1senbrg), [Hemanth](https://github.com/wreck-x)
 - [Presense](https://github.com/amfoss/presense) -> [Vishnu](https://github.com/he1senbrg)
 - [Home](https://github.com/amfoss/home) -> No maintainer.
