@@ -10,3 +10,4 @@ We're a community of student developers based in Amrita Vishwa Vidyapeetham, Amr
 - [Root](https://github.com/amfoss/root) -> [Vishnu](https://github.com/he1senbrg), [Hemanth](https://github.com/wreck-x)
 - [Presense](https://github.com/amfoss/presense) -> [Vishnu](https://github.com/he1senbrg)
 - [Home](https://github.com/amfoss/home) -> No maintainer.
+- [amFOSS.in](https://github.com/amfoss/website-2024) -> [K K Surendran](https://github.com/KKSurendran06/)
