@@ -11,6 +11,6 @@ We're a community of student developers based in Amrita Vishwa Vidyapeetham, Amr
 | [amD](https://github.com/amfoss/amd)            | [Ivin](https://github.com/ivinjabraham)                |
 | [Root](https://github.com/amfoss/root)           | [Vishnu](https://github.com/he1senbrg), [Hemanth](https://github.com/wreck-x)     |
 | [Presense](https://github.com/amfoss/presense)       | [Vishnu](https://github.com/he1senbrg)              |
-| [Home](https://github.com/amfoss/home)           |    -    |
+| [Home](https://github.com/amfoss/home)           |[Sabari](https://github.com/sabarixr)    |
 | [amFOSS.in](https://github.com/amfoss/website-2024)      | [K K Surendran](https://github.com/KKSurendran06/)       |
 
