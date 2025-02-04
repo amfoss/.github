@@ -13,4 +13,4 @@ We're a community of student developers based in Amrita Vishwa Vidyapeetham, Amr
 | [Presense](https://github.com/amfoss/presense)       | [Vishnu](https://github.com/he1senbrg)              |
 | [Home](https://github.com/amfoss/home)           |[Sabari](https://github.com/sabarixr)    |
 | [amFOSS.in](https://github.com/amfoss/website-2024)      | [K K Surendran](https://github.com/KKSurendran06/)       |
-
+| [Bedrock](https://github.com/amfoss/bedrock)      | [Hridesh MG](https://github.com/hrideshmg/)       |
