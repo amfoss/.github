@@ -8,7 +8,7 @@ We're a community of student developers based in Amrita Vishwa Vidyapeetham, Amr
 
 | Project        | Maintainer(s)       |
 |----------------|----------------------|
-| [amFOSS.in](https://github.com/amfoss/website-2024)  | [K K Surendran](https://github.com/KKSurendran06/)       |
+| [amFOSS.in](https://github.com/amfoss/amFOSS.in)     | [K K Surendran](https://github.com/KKSurendran06/)       |
 | [amD](https://github.com/amfoss/amd)                 | [Ivin](https://github.com/ivinjabraham)                  |
 | [Bedrock](https://github.com/amfoss/bedrock)         | [Hridesh MG](https://github.com/hrideshmg/)              |
 | [Home](https://github.com/amfoss/home)               | [Sabari](https://github.com/sabarixr)                    |
