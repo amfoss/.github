@@ -1,6 +1,5 @@
 # Hi, welcome to amFOSS
-![below-who-we-are-section](https://github.com/user-attachments/assets/f65bcedf-17a2-4fb7-a472-51598d5ac2a8)
-
+![below-who-we-are-section](https://github.com/user-attachments/assets/4c8f6f1a-7e39-47c7-abb6-c96f061af17a)
 
 We're a community of student developers based in Amrita Vishwa Vidyapeetham, Amritapuri, dedicated to fostering contributions in the realms of computer science and open source software.
 
