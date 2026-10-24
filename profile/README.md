@@ -15,3 +15,4 @@ We're a community of student developers based in Amrita Vishwa Vidyapeetham, Amr
 | [Presense](https://github.com/amfoss/presense)       | [Vishnu](https://github.com/he1senbrg)                   |
 | [Root](https://github.com/amfoss/root)               | [Ivin](https://github.com/ivinjabraham)                  |
 | [amMentor](https://amfoss.github.io/ammentor)        | [Gani Dande](https://github.com/ganidande905)            |
+| [amMINGO](https://github.com/amfoss/ammingo-frontend)        | [Kota Jagadeesh](https://github.com/kota-jagadeesh)            |
